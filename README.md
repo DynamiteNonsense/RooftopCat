@@ -10,7 +10,7 @@
 
 ## Ссылка на игру
 
-- **GitHub Pages:** `[https://DynamiteNonsense.github.io/RooftopCat/](https://DynamiteNonsense.github.io/RooftopCat/)`  
+- **GitHub Pages:** [https://DynamiteNonsense.github.io/RooftopCat/](https://DynamiteNonsense.github.io/RooftopCat/)  
 
 ---
 
@@ -94,5 +94,6 @@ assets/
     hit.wav           — получение урона
     gameover.wav      — звук поражения
     level_complete.wav— звук завершения уровня
+
 
 
